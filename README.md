@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit classification.py
 
 ##Open in browser: 
-The app will be available at http://localhost:8501
+The app will be available at https://irisclassification-taxdzy2mwjdgckvzumgrhf.streamlit.app/
 
 License
 This project is licensed under the MIT License.
