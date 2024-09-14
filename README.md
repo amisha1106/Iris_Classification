@@ -26,4 +26,6 @@ streamlit classification.py
 ##Open in browser: 
 The app will be available at http://localhost:8501
 
+License
+This project is licensed under the MIT License.
 
